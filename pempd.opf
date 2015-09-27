@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+          <dc:title>Programming Electronic Music in Pd</dc:title>
+          <dc:language>en-us</dc:language>
+          <dc:creator>Johannes Kreidler</dc:creator>
+          <dc:description>Programming Electronic Music in Pd.</dc:description>
+          <dc:subject>Electronic Digital Computers -- Programming</dc:subject>
+          <dc:date>2009-01-27</dc:date>
+          <x-metadata>   
+               <output encoding="utf-8" content-type="text/x-oeb1-document"></output>
+               <EmbeddedCover>cover.jpg</EmbeddedCover>
+          </x-metadata>
+     </metadata>
+     <manifest>
+          <item id='item1' media-type='application/xhtml+xml' href='pr01.html'></item>
+          <item id='item2' media-type='application/xhtml+xml' href='pr02.html'></item>
+          <item id='item3' media-type='application/xhtml+xml' href='ch01.html'></item>
+          <item id='item4' media-type='application/xhtml+xml' href='ch01s02.html'></item>
+          <item id='item5' media-type='application/xhtml+xml' href='ch02.html'></item>
+          <item id='item6' media-type='application/xhtml+xml' href='ch02s02.html'></item>
+          <item id='item8' media-type='application/xhtml+xml' href='ch03.html'></item>
+          <item id='item9' media-type='application/xhtml+xml' href='ch03s02.html'></item>
+          <item id='item10' media-type='application/xhtml+xml' href='ch03s03.html'></item>
+          <item id='item11' media-type='application/xhtml+xml' href='ch03s04.html'></item>
+          <item id='item12' media-type='application/xhtml+xml' href='ch03s05.html'></item>
+          <item id='item13' media-type='application/xhtml+xml' href='ch03s06.html'></item>
+          <item id='item14' media-type='application/xhtml+xml' href='ch03s07.html'></item>
+          <item id='item15' media-type='application/xhtml+xml' href='ch03s08.html'></item>
+          <item id='item16' media-type='application/xhtml+xml' href='ch03s09.html'></item>
+          <item id='item17' media-type='application/xhtml+xml' href='ch04.html'></item>
+          <item id='item18' media-type='application/xhtml+xml' href='ch04s02.html'></item>
+          <item id='item19' media-type='application/xhtml+xml' href='ch04s03.html'></item>
+          <item id='item20' media-type='application/xhtml+xml' href='ch04s04.html'></item>
+          <item id='item21' media-type='application/xhtml+xml' href='ch05.html'></item>
+          <item id='item22' media-type='application/xhtml+xml' href='ch05s02.html'></item>
+          <item id='item23' media-type='application/xhtml+xml' href='apa.html'></item>
+          <item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"></item>
+     </manifest>
+     <spine toc="ncx">
+          <itemref idref='item1'/>
+          <itemref idref='item2'/>
+          <itemref idref='item3'/>
+          <itemref idref='item4'/>
+          <itemref idref='item5'/>
+          <itemref idref='item6'/>
+          <itemref idref='item8'/>
+          <itemref idref='item9'/>
+          <itemref idref='item10'/>
+          <itemref idref='item11'/>
+          <itemref idref='item12'/>
+          <itemref idref='item13'/>
+          <itemref idref='item14'/>
+          <itemref idref='item15'/>
+          <itemref idref='item16'/>
+          <itemref idref='item17'/>
+          <itemref idref='item18'/>
+          <itemref idref='item19'/>
+          <itemref idref='item20'/>
+          <itemref idref='item21'/>
+          <itemref idref='item22'/>
+          <itemref idref='item23'/>
+     </spine>
+     <guide>
+          <reference type="start" title="Introduction to Pd" href="ch01.html"></reference>
+          <reference type="toc" title="Table of Contents" href="index.html#toc"></reference>
+     </guide>
+</package>  
+

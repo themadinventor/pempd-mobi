@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="BookId"/>
+</head>
+   <docTitle><text>Programming Electronic Music in Pd</text></docTitle>
+   
+   <navMap>
+    <navPoint id='navPoint-1' playOrder='1'>
+        <navLabel><text>Preface</text></navLabel>
+        <content src='pr01.html'/>
+    </navPoint>
+    <navPoint id='navPoint-2' playOrder='2'>
+        <navLabel><text>Introduction to this book's methology</text></navLabel>
+        <content src='pr02.html'/>
+    </navPoint>
+    <navPoint id='navPoint-3' playOrder='3'>
+        <navLabel><text>Introduction to Pd</text></navLabel>
+        <content src='ch01.html'/>
+        <navPoint id='navPoint-4' playOrder='4'>
+            <navLabel><text>General remarks</text></navLabel>
+            <content src='ch01.html'/>
+        </navPoint>
+        <navPoint id='navPoint-5' playOrder='5'>
+            <navLabel><text>Installing and setting up Pd</text></navLabel>
+            <content src='ch01s02.html'/>
+        </navPoint>
+    </navPoint>
+    <navPoint id='navPoint-6' playOrder='6'>
+        <navLabel><text>Programming with Pd for the first time</text></navLabel>
+        <content src='ch02.html'/>
+        <navPoint id='navPoint-7' playOrder='7'>
+            <navLabel><text>Introduction</text></navLabel>
+            <content src='ch02.html'/>
+        </navPoint>
+        <navPoint id='navPoint-8' playOrder='8'>
+            <navLabel><text>The control level</text></navLabel>
+            <content src='ch02s02.html'/>
+        </navPoint>
+    </navPoint>
+    <navPoint id='navPoint-9' playOrder='9'>
+        <navLabel><text>Audio</text></navLabel>
+        <content src='ch03.html'/>
+        <navPoint id='navPoint-10' playOrder='10'>
+            <navLabel><text>Basics</text></navLabel>
+            <content src='ch03.html'/>
+        </navPoint>
+        <navPoint id='navPoint-11' playOrder='11'>
+            <navLabel><text>Additive synthsis</text></navLabel>
+            <content src='ch03s02.html'/>
+        </navPoint>
+        <navPoint id='navPoint-12' playOrder='12'>
+            <navLabel><text>Subtractive synthesis</text></navLabel>
+            <content src='ch03s03.html'/>
+        </navPoint>
+        <navPoint id='navPoint-13' playOrder='13'>
+            <navLabel><text>Sampling</text></navLabel>
+            <content src='ch03s04.html'/>
+        </navPoint>
+        <navPoint id='navPoint-14' playOrder='14'>
+            <navLabel><text>Wave shaping</text></navLabel>
+            <content src='ch03s05.html'/>
+        </navPoint>
+        <navPoint id='navPoint-15' playOrder='15'>
+            <navLabel><text>Modulation synthesis</text></navLabel>
+            <content src='ch03s06.html'/>
+        </navPoint>
+        <navPoint id='navPoint-16' playOrder='16'>
+            <navLabel><text>Granular synthesis</text></navLabel>
+            <content src='ch03s07.html'/>
+        </navPoint>
+        <navPoint id='navPoint-17' playOrder='17'>
+            <navLabel><text>Fourier analysis</text></navLabel>
+            <content src='ch03s08.html'/>
+        </navPoint>
+        <navPoint id='navPoint-18' playOrder='18'>
+            <navLabel><text>Amplitude corrections</text></navLabel>
+            <content src='ch03s09.html'/>
+        </navPoint>
+    </navPoint>
+    <navPoint id='navPoint-19' playOrder='19'>
+        <navLabel><text>Controlling sound</text></navLabel>
+        <content src='ch04.html'/>
+        <navPoint id='navPoint-20' playOrder='20'>
+            <navLabel><text>Algorithms</text></navLabel>
+            <content src='ch04.html'/>
+        </navPoint>
+        <navPoint id='navPoint-21' playOrder='21'>
+            <navLabel><text>Sequencer</text></navLabel>
+            <content src='ch04s02.html'/>
+        </navPoint>
+        <navPoint id='navPoint-22' playOrder='22'>
+            <navLabel><text>HIDs</text></navLabel>
+            <content src='ch04s03.html'/>
+        </navPoint>
+        <navPoint id='navPoint-23' playOrder='23'>
+            <navLabel><text>Network</text></navLabel>
+            <content src='ch04s04.html'/>
+        </navPoint>
+    </navPoint>
+    <navPoint id='navPoint-24' playOrder='24'>
+        <navLabel><text>Miscellaneous</text></navLabel>
+        <content src='ch05.html'/>
+        <navPoint id='navPoint-25' playOrder='25'>
+            <navLabel><text>Streamlining</text></navLabel>
+            <content src='ch05.html'/>
+        </navPoint>
+        <navPoint id='navPoint-26' playOrder='26'>
+            <navLabel><text>Visuals</text></navLabel>
+            <content src='ch05s02.html'/>
+        </navPoint>
+    </navPoint>
+    <navPoint id='navPoint-27' playOrder='27'>
+        <navLabel><text>Solutions</text></navLabel>
+        <content src='apa.html'/>
+    </navPoint>
+   </navMap>
+</ncx>
+    
