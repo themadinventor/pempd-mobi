@@ -1,0 +1,12 @@
+This repo contains scripts and metadata to build a MOBI e-book file out of Johannes Kreidler's
+Programming Electronic Music in Pd.
+
+Usage:
+* Download Amazon's KindleGen (http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000234621)
+* Run ./build-mobi.sh
+
+The content will be scraped from pd-tutorial.com and a .mobi file will be generated,
+suitable for reading on your Kindle or equivalent e-book device.
+
+Note that none of the copyrighted content of the book is contained in this repo,
+but is fetched as part of the convertion process.
